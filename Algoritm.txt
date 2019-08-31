@@ -1,0 +1,32 @@
+Variable tiempo y distancia...
+Colocar gps a los delivery, Con los gps no solo tendrian la comodidad de ver la ruta mas corta
+hasta el sitio,si no que lograrian ver la posicion de sus compañeros, para que sabria la posicion de mi compañero?
+simple,estariamos contando con el factor distancia, y entre ella el tiempo, si su compañero esta mucho mas cerca, este podria llevar el pedido...
+asi se evitaria la perdida de tiempo, por otro lado, debido a la alta compra de productos, podriamos ahorrar tiempo
+llevando 3,4 productos a una misma zona donde
+se encuentren los compradores, con esto ya no estariamos usando 4 motos para un mismo sitio, solo 1...
+
+Riesgos: 
+Gastos implementando gps a los delivery.?
+Con el tiempo se recupera lo perdido.
+
+Si el trafico aumenta a un 80% en las ultimas semanas.?
+Colocariamos puntos ubicados donde haya mayor venta , asi evitariamos perder mucho mas tiempo en el trafico...
+
+Aumento de la gasolina.?
+Podriamos implementar bicicletas en zonas de 1km...
+
+
+
+Si contratamos a otro equipo de delivery...
+Reducimos personal del delivery actual y llevamos 50/50.
+Tomamos en cuenta la calidad del servicio que tenemos.
+
+
+
+
+"(Costo de los gps*motos-Distancia)/tiempo"
+"tiempo+Distancia-moto+productos"
+"Distancia de puntos con mayor venta-Tiempo de entrega"	
+"trafico+tiempo+distancia/Distancia de puntos con mayor venta"	
+
